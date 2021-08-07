@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sang2006
+- 👀 I’m interested in python automation
+- 🌱 I’m currently learning python
+- 📫 How to reach me sangeethudayanga123@gmail.com
